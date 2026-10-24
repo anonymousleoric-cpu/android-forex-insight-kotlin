@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Forex Insight</string>
+    <string name="nav_dashboard">داشبورد</string>
+    <string name="nav_chart">نمودار نرخ</string>
+    <string name="nav_stats">آمار و تغییرات</string>
+    <string name="nav_import">وارد کردن CSV</string>
+    <string name="nav_trend">تحلیل روند</string>
+    <string name="nav_backtest">بک‌تست</string>
+    <string name="nav_history">تاریخچه تحلیل‌ها</string>
+    <string name="nav_settings">تنظیمات</string>
+    <string name="about_creator">سازنده : دانیال افشاری | تلگرام : SahandSoft</string>
+    <string name="no_data">ناموجود</string>
+    <string name="data_type_reference">نرخ مرجع تاریخی (REFERENCE_RATE)</string>
+    <string name="insufficient_data">INSUFFICIENT_DATA</string>
+    <string name="not_tested">NOT_TESTED</string>
+    <string name="insufficient_sample">INSUFFICIENT_SAMPLE_SIZE</string>
+</resources>
