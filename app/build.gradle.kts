@@ -64,7 +64,7 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
 
     // DataStore (prefs)
-    implementation("androidx.datastore:datastore-preferences:1.0.0")
+    implementation("com.google.android.material:material:1.11.0")
 
     testImplementation("junit:junit:4.13.2")
     debugImplementation("androidx.compose.ui:ui-tooling")
