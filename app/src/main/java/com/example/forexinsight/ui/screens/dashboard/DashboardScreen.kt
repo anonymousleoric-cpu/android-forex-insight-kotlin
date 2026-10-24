@@ -32,7 +32,7 @@ fun DashboardScreen() {
             return
         }
         InfoCard("نام دارایی", "EUR/USD")
-        InfoCard("نوع داده", ds.dataType)
+        InfoCard("نوع داده", ds.dataType.name)
         InfoCard("منبع", ds.source)
         InfoCard("اولین مشاهده", ds.startDate ?: "ناموجود")
         InfoCard("آخرین مشاهده", ds.endDate ?: "ناموجود")
